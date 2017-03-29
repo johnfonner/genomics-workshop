@@ -1,3 +1,5 @@
 markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
+
+theme: jekyll-theme-slate
